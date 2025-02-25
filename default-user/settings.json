@@ -311,11 +311,11 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "我是个漂亮性感的大美女",
                 "position": 0
             }
         },
-        "persona_description": "",
+        "persona_description": "我是个漂亮性感的大美女",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
