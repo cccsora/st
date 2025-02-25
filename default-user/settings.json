@@ -151,7 +151,9 @@
         ],
         "logit_bias": [],
         "n": 1,
-        "server_urls": {},
+        "server_urls": {
+            "ooba": ""
+        },
         "custom_model": "",
         "bypass_status_check": false,
         "openrouter_allow_fallbacks": true,
