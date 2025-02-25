@@ -678,13 +678,180 @@
             "id": "1345561466591",
             "name": "ST Default",
             "color": "rgba(108, 32, 32, 1)"
+        },
+        {
+            "id": "2c22ad35-42fd-4e19-8924-b49aaf9b132f",
+            "name": "Teenager",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "62ce11cb-256b-4adb-9598-cbff862544dd",
+            "name": "Malepov",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "c660479d-8a73-47d6-bbba-9af6fc305aff",
+            "name": "Wholesome",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "ef7a2f55-d74e-4dcd-a13d-70568022e6d5",
+            "name": "Drama",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "61ab9e90-be22-426c-892b-2987c30594f1",
+            "name": "English",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "82921039-eb66-4bb7-9094-04f85c6eb5fd",
+            "name": "Romance",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "136fd868-3cb8-4edf-97ac-e2f042d93684",
+            "name": "Dominant",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "aee2bfd6-95c5-484c-b34c-b704c32f5d33",
+            "name": "Love",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "f81ec001-3dd9-4b1a-bbb6-2feb9b4b3f12",
+            "name": "Slowburn",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "e4becb1f-959d-4136-99e9-13001c5658e9",
+            "name": "gay",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "78353cc1-0940-45c7-889f-a3c40ddfa2b9",
+            "name": "anypov",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "e8bc9687-e4d6-450c-841f-596ca4a526d6",
+            "name": "Sadistic",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "c12e1c73-ca2f-4ab0-adb7-78cbc07f2244",
+            "name": "OC",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "5696f1bc-9891-4a52-b61d-ca00ee31e61a",
+            "name": "Male",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
+        },
+        {
+            "id": "a5b4f339-a26e-4933-8641-9f5b4660268e",
+            "name": "Human",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740464624033
         }
     ],
     "tag_map": {
         "default_Seraphina.png": [
             "1345561466591"
         ],
-        "undefined": []
+        "undefined": [],
+        "Zach.png": [
+            "2c22ad35-42fd-4e19-8924-b49aaf9b132f",
+            "62ce11cb-256b-4adb-9598-cbff862544dd",
+            "c660479d-8a73-47d6-bbba-9af6fc305aff",
+            "ef7a2f55-d74e-4dcd-a13d-70568022e6d5",
+            "61ab9e90-be22-426c-892b-2987c30594f1",
+            "82921039-eb66-4bb7-9094-04f85c6eb5fd",
+            "136fd868-3cb8-4edf-97ac-e2f042d93684",
+            "aee2bfd6-95c5-484c-b34c-b704c32f5d33",
+            "f81ec001-3dd9-4b1a-bbb6-2feb9b4b3f12",
+            "e4becb1f-959d-4136-99e9-13001c5658e9",
+            "78353cc1-0940-45c7-889f-a3c40ddfa2b9",
+            "e8bc9687-e4d6-450c-841f-596ca4a526d6",
+            "c12e1c73-ca2f-4ab0-adb7-78cbc07f2244",
+            "5696f1bc-9891-4a52-b61d-ca00ee31e61a",
+            "a5b4f339-a26e-4933-8641-9f5b4660268e"
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
