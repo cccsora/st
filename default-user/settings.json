@@ -758,6 +758,76 @@
             "color": "",
             "color2": "",
             "create_date": 1740470125945
+        },
+        {
+            "id": "b96480b7-ec0a-40ee-bd16-ceff58dbfcb2",
+            "name": "Wholesome",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802658
+        },
+        {
+            "id": "eedfb6e9-10fb-4463-a56f-6a547affc400",
+            "name": "Shota",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "ebd4e15d-7d1f-4c16-98f8-3a0ecf377208",
+            "name": "Fantasy",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "a9c3e1a8-9e05-433d-8a7b-7bb158e4c420",
+            "name": "NSFW",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "4b86e55e-4b29-4f44-ab51-a8ae4ba28437",
+            "name": "Femboy",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "d9146a41-50ef-49da-8a35-a46945b49fc0",
+            "name": "Harem",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "a57861b6-45aa-4c32-a915-9843100b2a1f",
+            "name": "Multiple Characters",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
         }
     ],
     "tag_map": {
@@ -778,6 +848,17 @@
             "23b86508-cd25-4310-92e2-ea0ab1a6f145",
             "610e0914-bcba-437a-abde-b6d1805a947f",
             "c1b71842-ebc6-405d-b4e8-01dc5f520683"
+        ],
+        "Shota Kingdom's New Monarch.png": [
+            "23b86508-cd25-4310-92e2-ea0ab1a6f145",
+            "4383f887-cc6d-4db1-9bde-35355a866758",
+            "b96480b7-ec0a-40ee-bd16-ceff58dbfcb2",
+            "eedfb6e9-10fb-4463-a56f-6a547affc400",
+            "ebd4e15d-7d1f-4c16-98f8-3a0ecf377208",
+            "a9c3e1a8-9e05-433d-8a7b-7bb158e4c420",
+            "4b86e55e-4b29-4f44-ab51-a8ae4ba28437",
+            "d9146a41-50ef-49da-8a35-a46945b49fc0",
+            "a57861b6-45aa-4c32-a915-9843100b2a1f"
         ]
     },
     "nai_settings": {
