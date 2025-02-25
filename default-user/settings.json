@@ -1,7 +1,7 @@
 {
     "firstRun": false,
     "currentVersion": "1.12.11",
-    "username": "东",
+    "username": "sora",
     "active_character": "Zach.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "Storywriter",
@@ -306,16 +306,16 @@
             "content": "Write {{char}}'s next reply in a fictional chat between {{char}} and {{user}}."
         },
         "personas": {
-            "user-default.png": "东"
+            "user-default.png": "sora"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "我是个漂亮性感的大美女",
+                "description": "sora是个漂亮性感的大美女",
                 "position": 0
             }
         },
-        "persona_description": "我是个漂亮性感的大美女",
+        "persona_description": "sora是个漂亮性感的大美女",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
