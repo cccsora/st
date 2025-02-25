@@ -311,11 +311,11 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "性感漂亮的女高中生",
                 "position": 0
             }
         },
-        "persona_description": "",
+        "persona_description": "性感漂亮的女高中生",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
