@@ -152,7 +152,7 @@
         "logit_bias": [],
         "n": 1,
         "server_urls": {
-            "ooba": ""
+            "ooba": "https://api.theoremhub.asia"
         },
         "custom_model": "",
         "bypass_status_check": false,
@@ -325,7 +325,13 @@
         "custom_stopping_strings_macro": true,
         "fuzzy_search": true,
         "encode_tags": false,
-        "servers": [],
+        "servers": [
+            {
+                "label": "ooba_blocking",
+                "url": "https://api.theoremhub.asia/",
+                "lastConnection": 1740461069974
+            }
+        ],
         "bogus_folders": false,
         "zoomed_avatar_magnification": false,
         "show_tag_filters": false,
