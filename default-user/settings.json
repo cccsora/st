@@ -1,7 +1,7 @@
 {
     "firstRun": false,
     "currentVersion": "1.12.11",
-    "username": "东",
+    "username": "sora",
     "active_character": "Zach.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "Storywriter",
@@ -306,7 +306,7 @@
             "content": "Write {{char}}'s next reply in a fictional chat between {{char}} and {{user}}."
         },
         "personas": {
-            "user-default.png": "东"
+            "user-default.png": "sora"
         },
         "default_persona": null,
         "persona_descriptions": {
