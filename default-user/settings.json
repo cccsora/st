@@ -2,7 +2,7 @@
     "firstRun": false,
     "currentVersion": "1.12.11",
     "username": "sora",
-    "active_character": "Shota Kingdom's New Monarch.png",
+    "active_character": "方亦楷.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "Storywriter",
     "user_avatar": "user-default.png",
@@ -461,7 +461,9 @@
         },
         "dice": {},
         "regex": [],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "方亦楷.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
@@ -859,7 +861,8 @@
             "4b86e55e-4b29-4f44-ab51-a8ae4ba28437",
             "d9146a41-50ef-49da-8a35-a46945b49fc0",
             "a57861b6-45aa-4c32-a915-9843100b2a1f"
-        ]
+        ],
+        "方亦楷.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
