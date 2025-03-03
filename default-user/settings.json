@@ -461,7 +461,9 @@
         },
         "dice": {},
         "regex": [],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "方亦楷.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
