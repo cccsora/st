@@ -1074,19 +1074,19 @@
                 "order": [
                     {
                         "identifier": "main",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "worldInfoBefore",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "personaDescription",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "charDescription",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "charPersonality",
