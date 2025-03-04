@@ -937,8 +937,8 @@
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
         "stream_openai": true,
-        "openai_max_context": 4095,
-        "openai_max_tokens": 300,
+        "openai_max_context": 70000,
+        "openai_max_tokens": 3000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -1187,7 +1187,7 @@
         "jailbreak_system": false,
         "reverse_proxy": "",
         "chat_completion_source": "custom",
-        "max_context_unlocked": false,
+        "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": false,
         "proxy_password": "",
