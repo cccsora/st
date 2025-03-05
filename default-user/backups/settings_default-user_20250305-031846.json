@@ -1,8 +1,8 @@
 {
     "firstRun": false,
     "currentVersion": "1.12.11",
-    "username": "东",
-    "active_character": "default_Seraphina.png",
+    "username": "sora",
+    "active_character": "Shota Kingdom's New Monarch.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "Storywriter",
     "user_avatar": "user-default.png",
@@ -11,7 +11,9 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": []
+            "globalSelect": [
+                "🎤方亦楷和他那没存在过的七年之痒（带手机）"
+            ]
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -306,16 +308,16 @@
             "content": "Write {{char}}'s next reply in a fictional chat between {{char}} and {{user}}."
         },
         "personas": {
-            "user-default.png": "东"
+            "user-default.png": "sora"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "sora是个漂亮性感的大美女",
                 "position": 0
             }
         },
-        "persona_description": "",
+        "persona_description": "sora是个漂亮性感的大美女",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
@@ -361,7 +363,7 @@
         "reduced_motion": false,
         "compact_input_area": true,
         "show_swipe_num_all_messages": false,
-        "auto_connect": false,
+        "auto_connect": true,
         "auto_load_chat": false,
         "forbid_external_media": true,
         "external_media_allowed_overrides": [],
@@ -461,7 +463,9 @@
         },
         "dice": {},
         "regex": [],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "方亦楷.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
@@ -573,7 +577,7 @@
         },
         "chromadb": {},
         "translate": {
-            "target_language": "en",
+            "target_language": "zh-CN",
             "internal_language": "en",
             "provider": "google",
             "auto_mode": "none",
@@ -678,13 +682,189 @@
             "id": "1345561466591",
             "name": "ST Default",
             "color": "rgba(108, 32, 32, 1)"
+        },
+        {
+            "id": "607cc541-28da-4f1d-a238-9f65ff01a54f",
+            "name": "OC",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740466059147
+        },
+        {
+            "id": "23b86508-cd25-4310-92e2-ea0ab1a6f145",
+            "name": "Male",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740466059147
+        },
+        {
+            "id": "999087b6-8a4c-4463-b1ee-79278a8256e5",
+            "name": "M4F",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740466059147
+        },
+        {
+            "id": "6ed5e87a-aecd-45e4-b735-2d550a69eca4",
+            "name": "Human",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740466059147
+        },
+        {
+            "id": "4383f887-cc6d-4db1-9bde-35355a866758",
+            "name": "Roleplay",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740466059147
+        },
+        {
+            "id": "05bafd9e-2450-4492-9992-f9f688ed5a7f",
+            "name": "Fempov",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740466059147
+        },
+        {
+            "id": "610e0914-bcba-437a-abde-b6d1805a947f",
+            "name": "Anime Game Characters",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740470125944
+        },
+        {
+            "id": "c1b71842-ebc6-405d-b4e8-01dc5f520683",
+            "name": "Genshin Impact",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740470125945
+        },
+        {
+            "id": "b96480b7-ec0a-40ee-bd16-ceff58dbfcb2",
+            "name": "Wholesome",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802658
+        },
+        {
+            "id": "eedfb6e9-10fb-4463-a56f-6a547affc400",
+            "name": "Shota",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "ebd4e15d-7d1f-4c16-98f8-3a0ecf377208",
+            "name": "Fantasy",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "a9c3e1a8-9e05-433d-8a7b-7bb158e4c420",
+            "name": "NSFW",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "4b86e55e-4b29-4f44-ab51-a8ae4ba28437",
+            "name": "Femboy",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "d9146a41-50ef-49da-8a35-a46945b49fc0",
+            "name": "Harem",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
+        },
+        {
+            "id": "a57861b6-45aa-4c32-a915-9843100b2a1f",
+            "name": "Multiple Characters",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1740484802659
         }
     ],
     "tag_map": {
         "default_Seraphina.png": [
             "1345561466591"
         ],
-        "undefined": []
+        "undefined": [],
+        "Zach.png": [],
+        "Jesse.png": [
+            "607cc541-28da-4f1d-a238-9f65ff01a54f",
+            "23b86508-cd25-4310-92e2-ea0ab1a6f145",
+            "999087b6-8a4c-4463-b1ee-79278a8256e5",
+            "6ed5e87a-aecd-45e4-b735-2d550a69eca4",
+            "4383f887-cc6d-4db1-9bde-35355a866758",
+            "05bafd9e-2450-4492-9992-f9f688ed5a7f"
+        ],
+        "Scaramouche.png": [
+            "23b86508-cd25-4310-92e2-ea0ab1a6f145",
+            "610e0914-bcba-437a-abde-b6d1805a947f",
+            "c1b71842-ebc6-405d-b4e8-01dc5f520683"
+        ],
+        "Shota Kingdom's New Monarch.png": [
+            "23b86508-cd25-4310-92e2-ea0ab1a6f145",
+            "4383f887-cc6d-4db1-9bde-35355a866758",
+            "b96480b7-ec0a-40ee-bd16-ceff58dbfcb2",
+            "eedfb6e9-10fb-4463-a56f-6a547affc400",
+            "ebd4e15d-7d1f-4c16-98f8-3a0ecf377208",
+            "a9c3e1a8-9e05-433d-8a7b-7bb158e4c420",
+            "4b86e55e-4b29-4f44-ab51-a8ae4ba28437",
+            "d9146a41-50ef-49da-8a35-a46945b49fc0",
+            "a57861b6-45aa-4c32-a915-9843100b2a1f"
+        ],
+        "方亦楷.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -756,9 +936,9 @@
         "min_p_openai": 0,
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
-        "stream_openai": true,
-        "openai_max_context": 4095,
-        "openai_max_tokens": 300,
+        "stream_openai": false,
+        "openai_max_context": 60000,
+        "openai_max_tokens": 20000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -944,7 +1124,7 @@
             }
         ],
         "send_if_empty": "",
-        "impersonation_prompt": "[Write your next reply from the point of view of {{user}}, using the chat history so far as a guideline for the writing style of {{user}}. Write 1 reply only in internet RP style. Don't write as {{char}} or system. Don't describe actions of {{char}}.]",
+        "impersonation_prompt": "[Write your next reply from the point of view of {{user}}, using the chat history so far as a guideline for the writing style of {{user}}. Don't write as {{char}} or system. Don't describe actions of {{char}}.]",
         "new_chat_prompt": "[Start a new Chat]",
         "new_group_chat_prompt": "[Start a new group chat. Group members: {{group}}]",
         "new_example_chat_prompt": "[Example Chat]",
@@ -981,18 +1161,18 @@
         "personality_format": "{{personality}}",
         "openai_model": "gpt-4-turbo",
         "claude_model": "claude-3-5-sonnet-20240620",
-        "google_model": "gemini-1.5-pro",
+        "google_model": "gemini-pro",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
-        "cohere_model": "command-r-plus",
-        "perplexity_model": "llama-3.1-70b-instruct",
-        "groq_model": "llama-3.1-70b-versatile",
+        "cohere_model": "command-r",
+        "perplexity_model": "llama-3-70b-instruct",
+        "groq_model": "llama3-70b-8192",
         "nanogpt_model": "gpt-4o-mini",
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "deepseek-ai/DeepSeek-V3",
-        "custom_url": "https://api.siliconflow.com/v1",
+        "custom_model": "claude-3-7-sonnet",
+        "custom_url": "https://api.oaipro.com/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
@@ -1007,7 +1187,7 @@
         "jailbreak_system": false,
         "reverse_proxy": "",
         "chat_completion_source": "custom",
-        "max_context_unlocked": false,
+        "max_context_unlocked": true,
         "api_url_scale": "",
         "show_external_models": false,
         "proxy_password": "",
@@ -1018,7 +1198,7 @@
         "use_alt_scale": false,
         "squash_system_messages": false,
         "image_inlining": false,
-        "inline_image_quality": "low",
+        "inline_image_quality": "auto",
         "bypass_status_check": false,
         "continue_prefill": false,
         "function_calling": false,
