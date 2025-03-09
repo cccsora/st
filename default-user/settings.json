@@ -2,7 +2,7 @@
     "firstRun": false,
     "currentVersion": "1.12.11",
     "username": "sora",
-    "active_character": "Shota Kingdom's New Monarch.png",
+    "active_character": "The Kingdom's Finest.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "Storywriter",
     "user_avatar": "user-default.png",
@@ -1021,7 +1021,8 @@
             "9b3086cd-4e11-44fd-bbab-e4aab313e7bc",
             "7b5050bc-faf0-4261-bcfe-5c04daf338a9",
             "d78b9045-cba2-472c-a061-3fd7bc7e80b3"
-        ]
+        ],
+        "The Kingdom's Finest.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
