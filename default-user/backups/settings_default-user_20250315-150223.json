@@ -2,7 +2,7 @@
     "firstRun": false,
     "currentVersion": "1.12.11",
     "username": "sora",
-    "active_character": "Scaramouche.png",
+    "active_character": "Shota Kingdom's New Monarch.png",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "Storywriter",
     "user_avatar": "user-default.png",
@@ -11,7 +11,9 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": []
+            "globalSelect": [
+                "🎤方亦楷和他那没存在过的七年之痒（带手机）"
+            ]
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -461,7 +463,9 @@
         },
         "dice": {},
         "regex": [],
-        "character_allowed_regex": [],
+        "character_allowed_regex": [
+            "方亦楷.png"
+        ],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
@@ -828,6 +832,146 @@
             "color": "",
             "color2": "",
             "create_date": 1740484802659
+        },
+        {
+            "id": "44895b4a-1d5f-473a-98f3-5bf90e956eea",
+            "name": "femdom",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "78f7e0a4-6bd3-453c-833d-5fba6bafab27",
+            "name": "Smut",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "719da8ce-a1ab-4868-819e-7c230ee96564",
+            "name": "Multiple Greetings",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "27199d9a-c510-4b4f-8748-f32d3540ade7",
+            "name": "Big Butt",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "6d003e4f-4a8d-4473-9e10-402cf3fc5007",
+            "name": "Malepov",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "ed61dd6a-4059-4424-9b43-3989f6e377c5",
+            "name": "sillytavern",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "df535f1b-d13c-4c6d-8b06-fdba2c8ad942",
+            "name": "Anal",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "956a6b3f-2824-450b-afa1-6fc32974fd0e",
+            "name": "Breeding Kink",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "7bf117ab-d040-4f44-85e9-fc68b8eef30a",
+            "name": "possible pregnancy",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "d948bc7f-d56e-4b6f-a054-04886cb533c8",
+            "name": "Violent",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "4b24eff0-83b7-4de4-92b1-8dd23fe0757f",
+            "name": "Dominant",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "9b3086cd-4e11-44fd-bbab-e4aab313e7bc",
+            "name": "fisting",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "7b5050bc-faf0-4261-bcfe-5c04daf338a9",
+            "name": "pantyhose",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
+        },
+        {
+            "id": "d78b9045-cba2-472c-a061-3fd7bc7e80b3",
+            "name": "Rape",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "color": "",
+            "color2": "",
+            "create_date": 1741528273013
         }
     ],
     "tag_map": {
@@ -859,7 +1003,26 @@
             "4b86e55e-4b29-4f44-ab51-a8ae4ba28437",
             "d9146a41-50ef-49da-8a35-a46945b49fc0",
             "a57861b6-45aa-4c32-a915-9843100b2a1f"
-        ]
+        ],
+        "方亦楷.png": [],
+        "Your bullies.png": [
+            "a9c3e1a8-9e05-433d-8a7b-7bb158e4c420",
+            "44895b4a-1d5f-473a-98f3-5bf90e956eea",
+            "78f7e0a4-6bd3-453c-833d-5fba6bafab27",
+            "719da8ce-a1ab-4868-819e-7c230ee96564",
+            "27199d9a-c510-4b4f-8748-f32d3540ade7",
+            "6d003e4f-4a8d-4473-9e10-402cf3fc5007",
+            "ed61dd6a-4059-4424-9b43-3989f6e377c5",
+            "df535f1b-d13c-4c6d-8b06-fdba2c8ad942",
+            "956a6b3f-2824-450b-afa1-6fc32974fd0e",
+            "7bf117ab-d040-4f44-85e9-fc68b8eef30a",
+            "d948bc7f-d56e-4b6f-a054-04886cb533c8",
+            "4b24eff0-83b7-4de4-92b1-8dd23fe0757f",
+            "9b3086cd-4e11-44fd-bbab-e4aab313e7bc",
+            "7b5050bc-faf0-4261-bcfe-5c04daf338a9",
+            "d78b9045-cba2-472c-a061-3fd7bc7e80b3"
+        ],
+        "The Kingdom's Finest.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -932,8 +1095,8 @@
         "top_a_openai": 0,
         "repetition_penalty_openai": 1,
         "stream_openai": false,
-        "openai_max_context": 8000,
-        "openai_max_tokens": 800,
+        "openai_max_context": 40095,
+        "openai_max_tokens": 3000,
         "wrap_in_quotes": false,
         "prompts": [
             {
@@ -1119,7 +1282,7 @@
             }
         ],
         "send_if_empty": "",
-        "impersonation_prompt": "[Write your next reply from the point of view of {{user}}, using the chat history so far as a guideline for the writing style of {{user}}. Write 1 reply only in internet RP style. Don't write as {{char}} or system. Don't describe actions of {{char}}.]",
+        "impersonation_prompt": "[Write your next reply from the point of view of {{user}}, using the chat history so far as a guideline for the writing style of {{user}}. Don't write as {{char}} or system. Don't describe actions of {{char}}.]",
         "new_chat_prompt": "[Start a new Chat]",
         "new_group_chat_prompt": "[Start a new group chat. Group members: {{group}}]",
         "new_example_chat_prompt": "[Example Chat]",
@@ -1156,18 +1319,18 @@
         "personality_format": "{{personality}}",
         "openai_model": "gpt-4-turbo",
         "claude_model": "claude-3-5-sonnet-20240620",
-        "google_model": "gemini-1.5-pro",
+        "google_model": "gemini-pro",
         "ai21_model": "jamba-1.5-large",
         "mistralai_model": "mistral-large-latest",
-        "cohere_model": "command-r-plus",
-        "perplexity_model": "llama-3.1-70b-instruct",
-        "groq_model": "llama-3.1-70b-versatile",
+        "cohere_model": "command-r",
+        "perplexity_model": "llama-3-70b-instruct",
+        "groq_model": "llama3-70b-8192",
         "nanogpt_model": "gpt-4o-mini",
         "zerooneai_model": "yi-large",
         "blockentropy_model": "be-70b-base-llama3.1",
         "deepseek_model": "deepseek-chat",
-        "custom_model": "deepseek-r1",
-        "custom_url": "https://api-1-hemf.onrender.com/v1",
+        "custom_model": "claude-3-5-sonnet-20241022",
+        "custom_url": "https://poloai.club/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",
@@ -1182,25 +1345,25 @@
         "jailbreak_system": false,
         "reverse_proxy": "",
         "chat_completion_source": "custom",
-        "max_context_unlocked": true,
+        "max_context_unlocked": false,
         "api_url_scale": "",
         "show_external_models": false,
         "proxy_password": "",
         "assistant_prefill": "",
         "assistant_impersonation": "",
         "claude_use_sysprompt": false,
-        "use_makersuite_sysprompt": true,
+        "use_makersuite_sysprompt": false,
         "use_alt_scale": false,
         "squash_system_messages": false,
         "image_inlining": false,
-        "inline_image_quality": "low",
+        "inline_image_quality": "high",
         "bypass_status_check": false,
         "continue_prefill": false,
-        "function_calling": false,
+        "function_calling": true,
         "names_behavior": 0,
         "continue_postfix": " ",
-        "custom_prompt_post_processing": "",
-        "show_thoughts": false,
+        "custom_prompt_post_processing": "strict",
+        "show_thoughts": true,
         "seed": -1,
         "n": 1
     },
